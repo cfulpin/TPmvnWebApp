@@ -1,4 +1,4 @@
 public void testApp()
 {
-   assertTrue( true );
+   assertTrue( false );
 }
